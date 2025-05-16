@@ -21,11 +21,6 @@ Fitur yang dibahas:
 - Proses iteratif semut dalam membentuk solusi
 - Grafik konvergensi jarak terpendek
 
-## 📷 Contoh Output
-
-![Contoh visualisasi](https://via.placeholder.com/600x300?text=ACO+Visualization+Preview)
-
-> Gambar di atas hanya ilustrasi. Jalankan notebook untuk melihat hasil aslinya!
 
 ## 🚀 Cara Menjalankan
 
