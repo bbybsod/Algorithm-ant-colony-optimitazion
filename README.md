@@ -13,7 +13,7 @@ Ant Colony Optimization adalah algoritma inspirasi alam yang meniru cara semut m
 ## 📘 Isi Notebook
 
 Notebook utama:
-- `aco_tsp.ipynb`
+- `jarak_pengangkutan_ACO_algoritm.ipynb`
 
 Fitur yang dibahas:
 - Penjelasan singkat teori ACO
